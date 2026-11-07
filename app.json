@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Land App",
+    "slug": "land-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0B3D2E",
+    "splash": { "backgroundColor": "#0B3D2E", "resizeMode": "contain" },
+    "android": {
+      "package": "com.landapp.app",
+      "adaptiveIcon": { "backgroundColor": "#0B3D2E" }
+    }
+  }
+}
